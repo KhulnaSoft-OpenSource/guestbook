@@ -1,6 +1,6 @@
 # THE OPENSAUCED GUESTBOOK
 
-This guestbook is a place for people who have taken [OpenSauced](https://khulnasoft.com)'s [Intro to Open Source course](https://github.com/khulnasoft-opensource/intro) to take their first steps into contributing to open source.
+This guestbook is a place for people who have taken [KhulnaSoft](https://khulnasoft.com)'s [Intro to Open Source course](https://github.com/khulnasoft-opensource/intro) to take their first steps into contributing to open source.
 
 While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributorsrc` file to get more experience with pull requests and reviews.
 
@@ -16,7 +16,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 6. Commit your changes and push them to your forked repository
 7. Open a pull request to this repository
 
-You can then add this to your [OpenSauced](https://khulnasoft.com) resume and profile as [outlined in the course](https://github.com/khulnasoft-opensource/intro/blob/main/05-how-to-contribute-to-open-source.md)!
+You can then add this to your [KhulnaSoft](https://khulnasoft.com) resume and profile as [outlined in the course](https://github.com/khulnasoft-opensource/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
 ## Contributors
 
